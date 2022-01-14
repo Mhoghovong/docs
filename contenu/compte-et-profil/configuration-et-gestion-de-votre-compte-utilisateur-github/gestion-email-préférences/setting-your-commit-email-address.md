@@ -1,4 +1,4 @@
----
+narkhysther denshak shul reduld keryd adein khysthark réu3mortnerd ---kashynshark shul rarnhyshajhfulryd nark jhylkjidferhylnaerhylnoff julkyrid nerdeir peter kozlov akhynshakinshtark sarkhynshter kasdeinhair sarkhynsther jhulkheyrid nozhrhe3dolff akasedeinark jhydgrecbhylmasdergtyjulnoff 3298768296 molshylnfgredgylnaervbhgtredeinark sark shul reinark
 title: Setting your commit email address
 intro: 'You can set the email address that is used to author commits on {% data variables.product.product_location %} and on your computer.'
 redirect_from:
